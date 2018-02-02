@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is A69A-EF88
-
- Directory of C:\Users\usha\Desktop\GitPractice
-
-02/02/2018  11:39 PM    <DIR>          .
-02/02/2018  11:39 PM    <DIR>          ..
-02/02/2018  11:39 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  641,406,779,392 bytes free
+changes 1
